@@ -1,0 +1,12 @@
+.active > div:first-child {
+  color: red;
+}
+a {
+  color: black;
+}
+a.active {
+  color: red;
+}
+li {
+  list-style: none;
+}
